@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oabuhamdan-blue?logo=linkedin)](https://linkedin.com/in/oabuhamdan)
 [![GitHub](https://img.shields.io/badge/GitHub-oabuhamdan-black?logo=github)](https://github.com/oabuhamdan)
 [![Website](https://img.shields.io/badge/Website-oabuhamdan.com-brightgreen?logo=google-chrome)](https://www.oabuhamdan.com)
-[![Email](https://img.shields.io/badge/Email-osamaabuhamdan%40yahoo.com-red?logo=gmail)](mailto:oabuhamdan@pm.me)
+[![Email](https://img.shields.io/badge/Email-oabuhamdan%40pm.me-red?logo=gmail)](mailto:oabuhamdan@pm.me)
 
 ---
 
